@@ -1,0 +1,32 @@
+{
+  "name": "Ss",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000S\u0000S\u0000T\u0000e\u0000s\u0000t\u0000e\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReginaldoPL/SSTeste.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReginaldoPL/SSTeste/issues"
+  },
+  "homepage": "https://github.com/ReginaldoPL/SSTeste#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jwt-simple": "^0.5.6",
+    "kerberos": "^1.1.4",
+    "moment": "^2.29.1",
+    "mongoose": "^5.11.12",
+    "mongoose-paginate": "^5.0.3",
+    "morgan": "^1.10.0"
+  }
+}
